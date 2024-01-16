@@ -32,33 +32,28 @@ Most recent hobby: bouldering 🧗🏻‍♀️
 - *2024.01*: &nbsp;🎉🎉 I sent a V4 for the first time (also flashed it) at Movement Santa Clara. 
 - *2024.01*: &nbsp;🎉🎉 I became a reviewer of CVPR 2024. 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019* NSF Student Scholarship for theWebConf (WWW)
+- *2017-2019* Graduate Research Fellowship, Language Technologies Institute
+- *2015.10* China National Scholarship
+- *2014.10* China National Scholarship
+- *2014* ACM/International Collegiate Programming Contest (ICPC) Beijing Regional Invitation, Bronze medal
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎯 Portfolios
+- <a href='https://statecashmere.com/'>State Cashmere</a>
+- <a href='https://www.suntisfy.com/'>Suntisfy</a>
+- <a href='https://linktr.ee/euterpe_ipnft'>Euterpe</a>
+- <a href='https://www.helloklarity.com/'>Klarity Health</a>
+- <a href='https://cosine.sh/'>Cosine YC(W23)</a>
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💡 Entertainments
+I keep developing new hobbies to entertain my life. Ranked by frequency.
+- *Photography* I love being models for portrait photography.
+- *Bouldering* I love the feel of muscle and power and especially when accomplishing a new challenge.
+- *Sports* I love playing basketball and was on school women basketball team in undergrad.
+- *Singing* I love challenging songs and served as soprano in univeristy choir in undergrad.
+- *Traveling* I love exploring the world and has been to 27 countries and districts, mostly free (on business trip or fully sponsored)!
