@@ -6,9 +6,6 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Portfolios"
     url: "/#-portfolios"
 
@@ -17,6 +14,9 @@ main:
 
   - title: "Reading Records"
     url: "/#-reading-records"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Entertainments"
     url: "/#-entertainments"
