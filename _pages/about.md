@@ -19,14 +19,18 @@ redirect_from:
 
 Hi! I am Xinru Yang, I also go by Isabella. Currently I am a software engineer at Google, working on large language modeling on <a href='https://labs.google/sge/'>Search Generative Experience (SGE)</a> in Search. 
 
-Before joining Google, I completed the Master of Language Technologies from Language Technologies Institute, School of Computer Science, of Carnegie Mellon University. I was fortunetely fully sponsored during my 24-month master program and enjoyed working with <a href='https://www.cs.cmu.edu/~alex/'>Alexander G. Hauptmann </a>.
+Before joining Google, I obtained the Master of Language Technologies from Language Technologies Institute, School of Computer Science, Carnegie Mellon University. I was fortunately fully sponsored during my 24-month master program and advised by <a href='https://www.cs.cmu.edu/~alex/'>Alexander G. Hauptmann</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Broadly interested in Artificial Intelligence and Machine Learning, I have diverse academia / industrial experiences in natural language processing, computer vision, information retrieval, reinforcement learning, recommendation system, etc.
+
+Deeply passionate about innovation and entrepreneurship, I am also very active in helping early-stage founders shape their ideas and find product market fit, by providing technical support and financial advisory. Book a slot for a quick chat on my <a href='https://calendly.com/isabella-y/15min'>calendar</a> if you have something exciting to share!
+
+Most recent hobby: bouldering 🧗🏻‍♀️
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp;🎉🎉 I sent a V4 for the first time (also flashed it) at Movement Santa Clara. 
+- *2024.01*: &nbsp;🎉🎉 I became a reviewer of CVPR 2024. 
 
 # 📝 Publications 
 
