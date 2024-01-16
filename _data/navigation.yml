@@ -12,11 +12,11 @@ main:
   - title: "Portfolios"
     url: "/#-portfolios"
 
-  - title: "Publications"
-    url: "/#-publications"
-
   - title: "Community contributions"
     url: "/#-community-contributions"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Reading Records"
+    url: "/#-reading-records"
+
+  - title: "Entertainments"
+    url: "/#-entertainments"
