@@ -41,7 +41,7 @@ I invest in early-stage startups (pre-seed to A) individually. Here are some of 
 - <a href='https://cosine.sh/'>Cosine YC(W23)</a>
 
 # 🌉 Community Contributions
-- *Since 2021* Core member of Chinese Googler Network (over 5000 Googler)
+- *Since 2021* Core member of Chinese Googler Network (the biggest Chinese Googler group at Google internally)
 - *Since 2020* Venture Scout / Fellow of multiple VCs including Uphonest Capital, Linear Capital, Miracle Plus, etc
 - *2021* Chair of <a href='https://www.163.com/dy/article/GMOQU0DQ05524B9I.html'>Chinese-youth Cloud Summit</a>
 - *2024* CVPR 2024 Program Committee
