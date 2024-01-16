@@ -21,7 +21,7 @@ Hi! I am Xinru Yang, I also go by Isabella. Currently I am a software engineer a
 
 Before joining Google, I obtained the Master of Language Technologies from Language Technologies Institute, School of Computer Science, Carnegie Mellon University. I was fortunately fully sponsored during my 24-month master program and advised by <a href='https://www.cs.cmu.edu/~alex/'>Alexander G. Hauptmann</a>.
 
-Broadly interested in Artificial Intelligence and Machine Learning, I have diverse academia / industrial experiences in natural language processing, computer vision, information retrieval, reinforcement learning, recommendation system, etc.
+Broadly interested in Artificial Intelligence and Machine Learning, I have diverse academia / industrial internships in Univeristy of California, Irvine, Microsoft Research Asia, and Alibaba on natural language processing, computer vision, information retrieval, reinforcement learning, recommendation system, etc.
 
 Deeply passionate about innovation and entrepreneurship, I am also very active in helping early-stage founders shape their ideas and find product market fit, by providing technical support and financial advisory. Book a slot for a quick chat on my <a href='https://calendly.com/isabella-y/15min'>calendar</a> if you have something exciting to share!
 
@@ -53,7 +53,8 @@ I am trying to read more books in 2024. To keep myself more motivated, I will li
 
 # 🎖 Honors and Awards
 - *2019* NSF Student Scholarship for theWebConf (WWW)
-- *2017-2019* Graduate Research Fellowship, Language Technologies Institute
+- *2017-2019* Graduate Research Fellowship, Language Technologies Institute, Carnegie Mellon University
+- *2015-2016* China Scholarship Council Grant for Exchange Program at Lund University, Sweden.
 - *2015.10* China National Scholarship
 - *2014.10* China National Scholarship
 - *2014* ACM/International Collegiate Programming Contest (ICPC) Beijing Regional Invitation, Bronze medal
