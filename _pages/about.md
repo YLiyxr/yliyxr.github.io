@@ -41,14 +41,14 @@ I invest in early-stage startups (pre-seed to A) individually. Here are some of 
 - <a href='https://cosine.sh/'>Cosine YC(W23)</a>
 
 # 🌉 Community Contributions
-- *Since 2021* Core member of Chinese Googler Network (the biggest Chinese Googler group at Google internally)
-- *Since 2020* Venture Scout / Fellow of multiple VCs including Uphonest Capital, Linear Capital, Miracle Plus, etc
-- *2021* Chair of <a href='https://www.163.com/dy/article/GMOQU0DQ05524B9I.html'>Chinese-youth Cloud Summit</a>
-- *2024* CVPR 2024 Program Committee
-- *2020* <a href='https://aaai.org/conference/aaai/aaai-21/'>AAAI 2021</a> Program Committee
+- *Since 2021*: Core member of Chinese Googler Network (the biggest Chinese Googler group at Google internally)
+- *Since 2020*: Venture Scout / Fellow of multiple VCs including Uphonest Capital, Linear Capital, Miracle Plus, etc
+- *2021*: Chair of <a href='https://www.163.com/dy/article/GMOQU0DQ05524B9I.html'>Chinese-youth Cloud Summit</a>
+- *2024*: CVPR 2024 Program Committee
+- *2020*: <a href='https://aaai.org/conference/aaai/aaai-21/'>AAAI 2021</a> Program Committee
 
 # 💬 Reading Records
-I am trying to read more books starting in 2024. To keep myself more motivated, I will list the books I have finished reading with some thoughts concisely here.
+I am trying to read more books in 2024. To keep myself more motivated, I will list the books I have finished reading with some comments.
 - *Hit Refresh*: Empathy and culture. There are many summarized principles by Satya in this book on working and building company's culture.
 
 # 🎖 Honors and Awards
