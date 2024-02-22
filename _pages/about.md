@@ -51,13 +51,13 @@ I invest in early-stage startups (pre-seed to A) individually. Here are some of 
 I am trying to read more books in 2024. To keep myself more motivated, I will list the books I have finished reading with some comments.
 - ***Hit Refresh*: Empathy and culture** [Jan, 2024]
 
-There are many summarized principles by Satya in this book on working and building company's culture. Satya has his very unique perception about empathy given his personal experiences. I am more curious about how he had climbed the ladder over time and if there are any turning points in his career before he was given the chance and stage to lead.
+There are many summarized principles by Satya in this book on working and building company's culture. Satya has his very unique perception about empathy given his personal experiences. I am more curious about how he had climbed the ladder over time and what were the turning points in his career before he was given the chance and stage to lead.
 - ***Notorious RBG*: The Life and Times of Ruth Bader Ginsburg** [Jan, 2024]
   
 My eyes were wet multiple times when I saw how the world treated women decades ago. Rights are not given or granted, but fought for. It is also a fortune to have a supportive and spiritually fulfilling companion. We, as women, should always and never forget how the rights of us are here today. We need to protect it and support each other.
 - **Steve Jobs** [Feb, 2024]
   
-In this book, Jobs cried more than 20 times (or at least holding tears in his eyes). It is surprising to see how many times that Jobs showed his emotions bluntly, even vulnerability, when he was admired and worshiped by the world as a hero. I honestly also cried once I started reading because I realized that I would never have a chance to talk to him in person regardless of how many familiarities I have found in myself and how profoundly I echo on his experiences. It is the greatest shame but I am also deeply grateful to read this book. I knew I was not the only one.
+In this book, Jobs cried more than 20 times (or at least holding tears in his eyes). It is surprising to see how many times that Jobs showed his emotions even vulnerability bluntly, while he was admired and worshiped by the world as a hero. I honestly also cried once I started reading because I realized that I would never have a chance to talk to him in person regardless of how many familiarities I have found in myself and how profoundly I echo on his experiences. It is the greatest shame but I am also deeply grateful to read this book. I knew I was not the only one.
 
 # 🎖 Honors and Awards
 - *2019* NSF Student Scholarship for theWebConf (WWW)
