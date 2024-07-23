@@ -29,6 +29,8 @@ Most recent hobby: bouldering 🧗🏻‍♀️
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 I became a reviewer of NeurIPS 2024.
+- *2024.06*: &nbsp;🎉🎉 I invested in <a href='https://zettablock.com/'>Zettablock</a>.
 - *2024.01*: &nbsp;🎉🎉 I sent a V4 for the first time (also flashed it) at Movement Santa Clara. 
 - *2024.01*: &nbsp;🎉🎉 I became a reviewer of CVPR 2024. 
 
@@ -39,6 +41,7 @@ I invest in early-stage startups (pre-seed to A) individually. Here are some of 
 - <a href='https://linktr.ee/euterpe_ipnft'>Euterpe</a>
 - <a href='https://www.helloklarity.com/'>Klarity Health</a>
 - <a href='https://cosine.sh/'>Cosine YC(W23)</a>
+- <a href='https://zettablock.com/'>Zettablock</a>
 
 # 🌉 Community Contributions
 - *Since 2021*: Core member of Chinese Googler Network (the biggest Chinese Googler group at Google internally)
