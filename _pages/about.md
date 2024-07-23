@@ -61,6 +61,9 @@ My eyes were wet multiple times when I saw how the world treated women decades a
 - **Steve Jobs** [Feb, 2024]
   
 In this book, Jobs cried more than 20 times (or at least holding tears in his eyes). It is surprising to see how many times that Jobs showed his emotions even vulnerability bluntly, while he was admired and worshiped by the world as a hero. I honestly also cried once I started reading because I realized that I would never have a chance to talk to him in person regardless of how many familiarities I have found in myself and how profoundly I echo on his experiences. It is the greatest shame but I am also deeply grateful to read this book. I knew I was not the only one.
+- **芯片浪潮** [April, 2024]
+  
+A thorough documentary of chips history. Very informative and useful in knowing the development of chips manufactory. The business acumen, competition war, and firm conviction all make this book a good read.
 
 # 🎖 Honors and Awards
 - *2019* NSF Student Scholarship for theWebConf (WWW)
