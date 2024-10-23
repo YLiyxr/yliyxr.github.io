@@ -76,7 +76,7 @@ A thorough documentary of chips history. Very informative and useful in knowing 
 # 💡 Entertainments
 I keep developing new hobbies to entertain my life. Ranked by frequency.
 - *Photography*, I love being models for portrait photography.
-- *Bouldering*, I love the feel of muscle and power and especially when accomplishing a new challenge.
+- *Bouldering*, I love the feeling of strength in my muscles and especially when accomplishing a new challenge.
 - *Singing*, I love challenging songs and served as soprano in univeristy choir in undergrad.
 - *Sports*, I love playing basketball and was on school women basketball team in undergrad.
-- *Traveling*, I love exploring the world and has been to 27 countries and districts, mostly free (on business trip or fully sponsored)!
+- *Traveling*, I love exploring the world and has been to 31 countries and districts, mostly free (on business trip or fully sponsored)!
