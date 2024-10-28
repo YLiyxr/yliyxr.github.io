@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Xinru Yang, I also go by Isabella. Currently I am a software engineer at Google, working on large language modeling on <a href='https://labs.google/sge/'>Search Generative Experience (SGE)</a> in Search. 
+Hi! I am Xinru Yang. Currently I am a software engineer at Google, working on large language modeling on <a href='https://labs.google/sge/'>Search Generative Experience (SGE)</a> in Search. 
 
 Before joining Google, I obtained the Master of Language Technologies from Language Technologies Institute, School of Computer Science, Carnegie Mellon University. I was fortunately fully sponsored during my 24-month master program and advised by <a href='https://www.cs.cmu.edu/~alex/'>Alexander G. Hauptmann</a>.
 
@@ -29,6 +29,7 @@ Most recent hobby: bouldering 🧗🏻‍♀️
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 I became a reviewer of COLING 2025.
 - *2024.07*: &nbsp;🎉🎉 I became a reviewer of NeurIPS 2024.
 - *2024.06*: &nbsp;🎉🎉 I invested in <a href='https://zettablock.com/'>Zettablock</a>.
 - *2024.01*: &nbsp;🎉🎉 I sent a V4 for the first time (also flashed it) at Movement Santa Clara. 
