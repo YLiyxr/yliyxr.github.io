@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Xinru Yang. Currently I am a software engineer at Google, working on large language modeling on <a href='https://labs.google/sge/'>Search Generative Experience (SGE)</a> in Search. 
+Hi! I am Xinru Yang. Currently I am a software engineer at Google/YouTube, working on multimodal large language model. My prior work includes <a href='https://labs.google/sge/'>Search Generative Experience (SGE)</a> in Search. 
 
 Before joining Google, I obtained the Master of Language Technologies from Language Technologies Institute, School of Computer Science, Carnegie Mellon University. I was fortunately fully sponsored during my 24-month master program and advised by <a href='https://www.cs.cmu.edu/~alex/'>Alexander G. Hauptmann</a>.
 
@@ -52,7 +52,7 @@ I invest in early-stage startups (pre-seed to A) individually. Here are some of 
 - *2020*: <a href='https://aaai.org/conference/aaai/aaai-21/'>AAAI 2021</a> Program Committee
 
 # 💬 Reading Records
-I am trying to read more books in 2024. To keep myself more motivated, I will list the books I have finished reading with some comments.
+I am trying to read more books since 2024. To keep myself more motivated, I will list the books I have finished reading with some comments.
 - ***Hit Refresh*: Empathy and culture** [Jan, 2024]
 
 There are many summarized principles by Satya in this book on working and building company's culture. Satya has his very unique perception about empathy given his personal experiences. I am more curious about how he had climbed the ladder over time and what were the turning points in his career before he was given the chance and stage to lead.
@@ -65,6 +65,11 @@ In this book, Jobs cried more than 20 times (or at least holding tears in his ey
 - **芯片浪潮** [April, 2024]
   
 A thorough documentary of chips history. Very informative and useful in knowing the development of chips manufactory. The business acumen, competition war, and firm conviction all make this book a good read.
+- **掌舵** [Jan, 2025]
+  
+Rich context of development of private companies and their relationships with governments in China. It is a bit surprising to me that many lessons / experiences shared in the book are no surprise to me that I take them for granted already. Even though I have never had the chance to practice any of these skills, it does seem so nature to me. Maybe it is what I have learned imperceptibly in the past few years in VC journey. It is science to work with code, but an art to work with people.
+
+
 
 # 🎖 Honors and Awards
 - *2019* NSF Student Scholarship for theWebConf (WWW)
