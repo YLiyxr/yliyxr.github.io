@@ -28,12 +28,12 @@ Deeply passionate about innovation and entrepreneurship, I am also very active i
 Most recent hobby: bouldering 🧗🏻‍♀️
 
 
-# 🔥 News
+# 🔥 News (1-year sliding window)
+- *2025.03*: &nbsp;🎉🎉 I became a reviewer of ICML 2025, NeurIPS 2025.
+- *2025.01*: &nbsp;🎉🎉 I will be giving a talk at <a href='https://www.linkedin.com/posts/the-data-innovation-summit_disummit2030-generativeai-llm-activity-7266790205200683008-vows?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZzzIQB6g14AdfejLdN3fII-lRk5xyRu-M'>Data Innovation Summit (DIS) 2025</a>.
 - *2024.10*: &nbsp;🎉🎉 I became a reviewer of COLING 2025.
 - *2024.07*: &nbsp;🎉🎉 I became a reviewer of NeurIPS 2024.
 - *2024.06*: &nbsp;🎉🎉 I invested in <a href='https://zettablock.com/'>Zettablock</a>.
-- *2024.01*: &nbsp;🎉🎉 I sent a V4 for the first time (also flashed it) at Movement Santa Clara. 
-- *2024.01*: &nbsp;🎉🎉 I became a reviewer of CVPR 2024. 
 
 # 🎯 Portfolios
 I invest in early-stage startups (pre-seed to A) individually. Here are some of my portfolios since 2021.
@@ -47,9 +47,9 @@ I invest in early-stage startups (pre-seed to A) individually. Here are some of 
 # 🌉 Community Contributions
 - *Since 2021*: Core member of Chinese Googler Network (the biggest Chinese Googler group at Google internally)
 - *Since 2020*: Venture Scout / Fellow of multiple VCs including Uphonest Capital, Linear Capital, Miracle Plus, etc
+- *Since 2020*: Program Committee of <a href='https://aaai.org/conference/aaai/aaai-21/'>AAAI 21</a>, CVPR 24, NeurIPS 24, COLING 25, ICML 25, NeurIPS 25.
 - *2021*: Chair of <a href='https://www.163.com/dy/article/GMOQU0DQ05524B9I.html'>Chinese-youth Cloud Summit</a>
-- *2024*: CVPR 2024 Program Committee
-- *2020*: <a href='https://aaai.org/conference/aaai/aaai-21/'>AAAI 2021</a> Program Committee
+
 
 # 💬 Reading Records
 I am trying to read more books since 2024. To keep myself more motivated, I will list the books I have finished reading with some comments.
