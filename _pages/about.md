@@ -29,6 +29,7 @@ Most recent hobby: bouldering 🧗🏻‍♀️
 
 
 # 🔥 News (1-year sliding window)
+- *2025.03*: &nbsp;🎉🎉 I invested in <a href='https://dexmate.ai/'>Dexmate</a>.
 - *2025.03*: &nbsp;🎉🎉 I became a reviewer of ICML 2025, NeurIPS 2025.
 - *2025.01*: &nbsp;🎉🎉 I will be giving a talk at <a href='https://www.linkedin.com/posts/the-data-innovation-summit_disummit2030-generativeai-llm-activity-7266790205200683008-vows?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZzzIQB6g14AdfejLdN3fII-lRk5xyRu-M'>Data Innovation Summit (DIS) 2025</a>.
 - *2024.10*: &nbsp;🎉🎉 I became a reviewer of COLING 2025.
@@ -43,6 +44,7 @@ I invest in early-stage startups (pre-seed to A) individually. Here are some of 
 - <a href='https://www.helloklarity.com/'>Klarity Health</a>
 - <a href='https://cosine.sh/'>Cosine YC(W23)</a>
 - <a href='https://zettablock.com/'>Zettablock</a>
+- <a href='https://dexmate.ai/'>Dexmate</a>
 
 # 🌉 Community Contributions
 - *Since 2021*: Core member of Chinese Googler Network (the biggest Chinese Googler group at Google internally)
