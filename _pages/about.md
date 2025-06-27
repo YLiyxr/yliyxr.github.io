@@ -29,9 +29,11 @@ Most recent hobby: bouldering 🧗🏻‍♀️
 
 
 # 🔥 News (1-year sliding window)
+- *2025.06*: &nbsp;🎉🎉 I invested in <a href='https://heydora.ai/'>Miss Dora</a>.
+- *2025.05*: &nbsp;🎉🎉 I invested in a stealth startup in robotics.
 - *2025.03*: &nbsp;🎉🎉 I invested in <a href='https://dexmate.ai/'>Dexmate</a>.
 - *2025.03*: &nbsp;🎉🎉 I became a reviewer of ICML 2025, NeurIPS 2025.
-- *2025.01*: &nbsp;🎉🎉 I will be giving a talk at <a href='https://www.linkedin.com/posts/the-data-innovation-summit_disummit2030-generativeai-llm-activity-7266790205200683008-vows?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZzzIQB6g14AdfejLdN3fII-lRk5xyRu-M'>Data Innovation Summit (DIS) 2025</a>.
+- *2025.05*: &nbsp;🎉🎉 I gave a talk at <a href='https://www.linkedin.com/posts/the-data-innovation-summit_disummit2030-generativeai-llm-activity-7266790205200683008-vows?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZzzIQB6g14AdfejLdN3fII-lRk5xyRu-M'>Data Innovation Summit (DIS) 2025</a>.
 - *2024.10*: &nbsp;🎉🎉 I became a reviewer of COLING 2025.
 - *2024.07*: &nbsp;🎉🎉 I became a reviewer of NeurIPS 2024.
 - *2024.06*: &nbsp;🎉🎉 I invested in <a href='https://zettablock.com/'>Zettablock</a>.
@@ -87,4 +89,4 @@ I keep developing new hobbies to entertain my life. Ranked by frequency.
 - *Bouldering*, I love the feeling of strength in my muscles and especially when accomplishing a new challenge.
 - *Singing*, I love challenging songs and served as soprano in univeristy choir in undergrad.
 - *Sports*, I love playing basketball and was on school women basketball team in undergrad.
-- *Traveling*, I love exploring the world and has been to 31 countries and districts, mostly free (on business trip or fully sponsored)!
+- *Traveling*, I love exploring the world and has been to 33 countries and districts, mostly free (on business trip or fully sponsored)!
