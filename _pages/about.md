@@ -25,18 +25,20 @@ Broadly interested in Artificial Intelligence and Machine Learning, I have diver
 
 Deeply passionate about innovation and entrepreneurship, I am also very active in helping early-stage founders shape their ideas and find product market fit, by providing technical support and financial advisory. Book a slot for a quick chat on my <a href='https://calendly.com/isabella-y/15min'>calendar</a> if you have something exciting to share!
 
-Most recent hobby: bouldering 🧗🏻‍♀️
+Most recent hobby: badminton! 🏸
 
 
 # 🔥 News (1-year sliding window)
-- *2025.06*: &nbsp;🎉🎉 I invested in <a href='https://heydora.ai/'>Miss Dora</a>.
-- *2025.05*: &nbsp;🎉🎉 I invested in a stealth startup in robotics.
-- *2025.03*: &nbsp;🎉🎉 I invested in <a href='https://dexmate.ai/'>Dexmate</a>.
-- *2025.03*: &nbsp;🎉🎉 I became a reviewer of ICML 2025, NeurIPS 2025.
-- *2025.05*: &nbsp;🎉🎉 I gave a talk at <a href='https://www.linkedin.com/posts/the-data-innovation-summit_disummit2030-generativeai-llm-activity-7266790205200683008-vows?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZzzIQB6g14AdfejLdN3fII-lRk5xyRu-M'>Data Innovation Summit (DIS) 2025</a>.
-- *2024.10*: &nbsp;🎉🎉 I became a reviewer of COLING 2025.
-- *2024.07*: &nbsp;🎉🎉 I became a reviewer of NeurIPS 2024.
-- *2024.06*: &nbsp;🎉🎉 I invested in <a href='https://zettablock.com/'>Zettablock</a>.
+- *2026.01*: &nbsp;🎉🎉 Invested in <a href='http://sunday.ai/'>Sunday Robotics</a>.
+- *2026.01*: &nbsp;🎉🎉 Invested in a stealth startup.
+- *2025.12*: &nbsp;🎉🎉 Invested in <a href='https://www.radixark.ai/'>RadixArk</a>.
+- *2025.09*: &nbsp;🎉🎉 Launched <a href='https://blog.youtube/news-and-events/live-updates/#youtube'>"AI-powered highlights"</a> on YouTube Live (<a href='https://www.theverge.com/news/778668/youtube-live-streaming-reactions-multi-format-updates'>theverge</a>).
+- *2025.06*: &nbsp;🎉🎉 Invested in <a href='https://heydora.ai/'>Miss Dora</a>.
+- *2025.05*: &nbsp;🎉🎉 Gave a talk at <a href='https://www.linkedin.com/posts/the-data-innovation-summit_disummit2030-generativeai-llm-activity-7266790205200683008-vows?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZzzIQB6g14AdfejLdN3fII-lRk5xyRu-M'>Data Innovation Summit (DIS) 2025</a>.
+- *2025.05*: &nbsp;🎉🎉 Invested in <a href='https://www.arirobots.com/'>ARI</a>. 
+- *2025.03*: &nbsp;🎉🎉 Invested in <a href='https://dexmate.ai/'>Dexmate</a>.
+- *2025.03*: &nbsp;🎉🎉 Became a reviewer of ICML 2025, NeurIPS 2025.
+
 
 # 🎯 Portfolios
 I invest in early-stage startups (pre-seed to A) individually. Here are some of my portfolios since 2021.
@@ -47,6 +49,10 @@ I invest in early-stage startups (pre-seed to A) individually. Here are some of 
 - <a href='https://cosine.sh/'>Cosine YC(W23)</a>
 - <a href='https://zettablock.com/'>Zettablock</a>
 - <a href='https://dexmate.ai/'>Dexmate</a>
+- <a href='https://www.arirobots.com/'>ARI</a>
+- <a href='https://heydora.ai/'>Miss Dora</a>
+- <a href='https://www.radixark.ai/'>RadixArk</a>
+- <a href='http://sunday.ai/'>Sunday Robotics</a>
 
 # 🌉 Community Contributions
 - *Since 2021*: Core member of Chinese Googler Network (the biggest Chinese Googler group at Google internally)
