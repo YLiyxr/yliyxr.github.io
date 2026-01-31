@@ -1,21 +1,30 @@
 ---
-layout: archive
+layout: default
 title: "Selected Posts"
 permalink: /posts/
 author_profile: true
 ---
 
-<div class="archive__item">
+# Selected Posts
+
+---
+
+<div class="posts-container">
   {% for post in site.posts %}
-    <article class="archive__item-teaser">
-      <h3>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h3>
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {{ post.date | date: "%B %d, %Y" }}</p>
-      {% if post.excerpt %}
-        <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    <hr />
+    <div style="margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 1rem;">
+      <h2 style="margin-bottom: 0.5rem;">
+        <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #0366d6;">{{ post.title }}</a>
+      </h2>
+      <div style="color: #666; font-size: 0.9rem; margin-bottom: 1rem;">
+        <span>📅 {{ post.date | date: "%B %d, %Y" }}</span>
+        {% if post.categories %}
+          <span style="margin-left: 15px;">🏷️ {{ post.categories | join: ", " }}</span>
+        {% endif %}
+      </div>
+      <div style="line-height: 1.6;">
+        {{ post.excerpt | strip_html | truncate: 200 }}
+      </div>
+      <a href="{{ post.url | relative_url }}" style="display: inline-block; margin-top: 10px; font-weight: bold; font-size: 0.9rem;">Read More →</a>
+    </div>
   {% endfor %}
 </div>
