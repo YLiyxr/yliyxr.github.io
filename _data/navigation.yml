@@ -20,3 +20,6 @@ main:
 
   - title: "Entertainments"
     url: "/#-entertainments"
+    
+  - title: "Posts"
+    url: /posts/
