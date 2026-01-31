@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Selected Posts"
 permalink: /posts/
 author_profile: true
