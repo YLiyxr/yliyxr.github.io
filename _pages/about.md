@@ -29,8 +29,9 @@ Most recent hobby: badminton! 🏸
 
 
 # 🔥 News (1-year sliding window)
+- *2026.03*: &nbsp;🎉🎉 Invested in <a href='http://https://www.origami-robotics.com/'>Origami Robotics</a>.
 - *2026.01*: &nbsp;🎉🎉 Invested in <a href='http://sunday.ai/'>Sunday Robotics</a>.
-- *2026.01*: &nbsp;🎉🎉 Invested in a stealth startup.
+- *2026.01*: &nbsp;🎉🎉 Invested in <a href='https://recursive.com/'>Recursive Superintelligence Inc</a>.
 - *2025.12*: &nbsp;🎉🎉 Invested in <a href='https://www.radixark.ai/'>RadixArk</a>.
 - *2025.09*: &nbsp;🎉🎉 Launched <a href='https://blog.youtube/news-and-events/live-updates/#youtube'>"AI-powered highlights"</a> on YouTube Live (<a href='https://www.theverge.com/news/778668/youtube-live-streaming-reactions-multi-format-updates'>theverge</a>).
 - *2025.06*: &nbsp;🎉🎉 Invested in <a href='https://heydora.ai/'>Miss Dora</a>.
