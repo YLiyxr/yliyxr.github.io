@@ -29,7 +29,7 @@ Most recent hobby: badminton! 🏸
 
 
 # 🔥 News (1-year sliding window)
-- *2026.03*: &nbsp;🎉🎉 Invested in <a href='http://https://www.origami-robotics.com/'>Origami Robotics</a>.
+- *2026.03*: &nbsp;🎉🎉 Invested in <a href='https://www.origami-robotics.com/'>Origami Robotics</a>.
 - *2026.02*: &nbsp;🎉🎉 Invested in <a href='https://elorian.ai/'>Elorian</a>.
 - *2026.01*: &nbsp;🎉🎉 Invested in <a href='http://sunday.ai/'>Sunday Robotics</a>.
 - *2026.01*: &nbsp;🎉🎉 Invested in <a href='https://recursive.com/'>Recursive Superintelligence Inc</a>.
@@ -38,8 +38,6 @@ Most recent hobby: badminton! 🏸
 - *2025.06*: &nbsp;🎉🎉 Invested in <a href='https://heydora.ai/'>Miss Dora</a>.
 - *2025.05*: &nbsp;🎉🎉 Gave a talk at <a href='https://www.linkedin.com/posts/the-data-innovation-summit_disummit2030-generativeai-llm-activity-7266790205200683008-vows?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZzzIQB6g14AdfejLdN3fII-lRk5xyRu-M'>Data Innovation Summit (DIS) 2025</a>.
 - *2025.05*: &nbsp;🎉🎉 Invested in <a href='https://www.arirobots.com/'>ARI</a>. 
-- *2025.03*: &nbsp;🎉🎉 Invested in <a href='https://dexmate.ai/'>Dexmate</a>.
-- *2025.03*: &nbsp;🎉🎉 Became a reviewer of ICML 2025, NeurIPS 2025.
 
 
 # 🎯 Portfolios
@@ -54,7 +52,10 @@ I invest in early-stage startups (pre-seed to A) individually. Here are some of 
 - <a href='https://www.arirobots.com/'>ARI</a>
 - <a href='https://heydora.ai/'>Miss Dora</a>
 - <a href='https://www.radixark.ai/'>RadixArk</a>
+- <a href='https://recursive.com/'>Recursive Superintelligence Inc</a>
 - <a href='http://sunday.ai/'>Sunday Robotics</a>
+- <a href='https://elorian.ai/'>Elorian</a>
+- <a href='https://www.origami-robotics.com/'>Origami Robotics</a>
 
 # 🌉 Community Contributions
 - *Since 2021*: Core member of Chinese Googler Network (the biggest Chinese Googler group at Google internally)
