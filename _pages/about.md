@@ -29,6 +29,7 @@ Most recent hobby: badminton! 🏸
 
 
 # 🔥 News (1-year sliding window)
+- *2026.07*: &nbsp;🎉🎉 Invested in <a href='https://worldengine.ai/'>World Engine</a>.
 - *2026.05*: &nbsp;🎉🎉 Porfolio <a href='https://www.arirobots.com/'>ARI</a> is aquired by Meta!
 - *2026.05*: &nbsp;🎉🎉 Invested in stealth company in AI infra.
 - *2026.05*: &nbsp;🎉🎉 Invested in stealth company in dexerous manipulation.
