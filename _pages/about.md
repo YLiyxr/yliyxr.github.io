@@ -31,7 +31,7 @@ Most recent hobby: badminton! 🏸
 # 🔥 News (1-year sliding window)
 - *2026.07*: &nbsp;🎉🎉 Invested in a stealth company in robotics platform.
 - *2026.05*: &nbsp;🎉🎉 Porfolio <a href='https://www.arirobots.com/'>ARI</a> is aquired by Meta!
-- *2026.05*: &nbsp;🎉🎉 Invested in a stealth company in AI infra.
+- *2026.05*: &nbsp;🎉🎉 Invested in <a href='https://www.agenticresearch.sh/'>Agentic Research</a>.
 - *2026.05*: &nbsp;🎉🎉 Invested in a stealth company in dexerous manipulation.
 - *2026.04*: &nbsp;🎉🎉 Invested in a stealth company in latent modeling.
 - *2026.03*: &nbsp;🎉🎉 Invested in <a href='https://www.origami-robotics.com/'>Origami Robotics</a>.
